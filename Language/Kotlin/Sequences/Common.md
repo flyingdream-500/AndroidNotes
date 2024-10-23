@@ -1,0 +1,1 @@
+* https://androidschool.ru/2024/01/11/sequence-api-vs-collection/
